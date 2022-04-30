@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AxLabelFile xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+	<Name>FTH_tr</Name>
+	<LabelContentFileName>FTH.tr.label.txt</LabelContentFileName>
+	<LabelFileId>FTH</LabelFileId>
+	<Language>tr</Language>
+	<RelativeUriInModelStore>FTHFinance\FTHFinance\AxLabelFile\LabelResources\tr\FTH.tr.label.txt</RelativeUriInModelStore>
+</AxLabelFile>

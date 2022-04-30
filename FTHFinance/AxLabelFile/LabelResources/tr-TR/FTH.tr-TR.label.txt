@@ -1,0 +1,2 @@
+﻿NewLabel0=Label files created on 04/29/2022 16:31:13 for label file Id FTH and language tr-TR
+ ;Label file comment - see above label
